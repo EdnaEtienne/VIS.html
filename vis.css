@@ -1,0 +1,26 @@
+/*info sur le mois de janvier*/
+b{
+font-style: oblique ;
+font-family: "mapolicedesign",serif;
+text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+/*info sur le premier image*/
+.img1{
+    width: 700px;
+}
+.img2{
+    width: 900px;
+}
+.img3{
+    width: 700px;
+    height: 900px;
+}
+body{
+    background-image: -webkit-linear-gradient(135deg, #40E0D0,rgba(255, 255,255));
+}
+.background1{
+    background-image: -webkit-radial-gradient(rgb(182, 50, 200), rgb(142, 99, 228));
+}
+.img5{
+    height: 1250px;
+}
